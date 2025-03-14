@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.banner-image {
+  max-width: 80%;
+  margin: auto;
+  display: block;
+  border-radius: 10px;
+}
+
